@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 using WebShopApp.Infrastructure.Data;
 
-namespace WebShopApp12v1
+namespace WebShopApp
 {
     public class Program
     {
@@ -17,7 +17,7 @@ namespace WebShopApp12v1
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => 
+            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
             {
                 options.SignIn.RequireConfirmedAccount = false;
                 options.Password.RequireDigit = false;

@@ -2,9 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 
 using System.Diagnostics;
 
-using WebShopApp12v1.Models;
+using WebShopApp.Models;
 
-namespace WebShopApp12v1.Controllers
+namespace WebShopApp.Controllers
 {
     public class HomeController : Controller
     {

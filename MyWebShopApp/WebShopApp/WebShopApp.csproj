@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-WebShopApp12v1-bf314862-1ba6-44a7-9856-2aca9a2f5d88</UserSecretsId>
+    <UserSecretsId>aspnet-WebShopApp-099f93ce-542c-4c91-9f1c-789aefb8de85</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
