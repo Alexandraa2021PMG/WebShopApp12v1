@@ -1,0 +1,43 @@
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Music\k13\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.sourcelink.json
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Desktop\WebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.deps.json
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\bin\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.pdb
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Student\Music\Aleksandra12v\12В-1гр. УП ИП\MyWebShopApp\MyWebShopApp\WebShopApp.Infrastructure\obj\Debug\net8.0\ref\WebShopApp.Infrastructure.dll
